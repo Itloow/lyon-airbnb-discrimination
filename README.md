@@ -12,7 +12,7 @@ Pour analyser ce corpus, nous allons construire plusieurs versions d'un même gr
 ### Pour le genre
 Dans le but de simplifier notre approche et de nous concentrer sur la pertinence scientifique des données construites, nous avons fait le choix de nous limiter aux deux étiquetages de genre les plus communs et fréquents dans l'analyse sociologique : celui d'« homme » et celui de « femme ».
 
-**Méthodologie :**
+**Modèles :**
 
 - Un premier modèle dont le rôle est d'attribuer à chaque prénom un genre et une valeur reflétant la confiance que le modèle porte en sa prédiction.
 - Un deuxième modèle s'appuyant sur les _reviews_ (conjugaison des adjectifs, façons d'écrire...) des personnes dont le score de confiance n'est pas assez élevé, pour essayer de discriminer une partie d'entre eux.
